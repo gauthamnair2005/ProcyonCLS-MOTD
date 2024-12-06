@@ -1,1 +1,1 @@
-Note : The frequency of updates for ProcyonCLS 2025 will be limited until 6th December 2024.
+Important Announcement : Developers, you can now easily set up updates for your apps, read Developer.md to learn more.!
