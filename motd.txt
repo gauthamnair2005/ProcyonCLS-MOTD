@@ -1,1 +1,1 @@
-Important Announcement : Developers, you can now easily set up updates for your apps, read Developer.md to learn more.!
+Life is either a daring adventure or nothing at all. In the same vein, by trusting me and using the Developer Preview of ProcyonCLS, you're taking a risk. However, I assure you, I'm not an invader; I'm merely a straightforward programmer, creating software and deriving joy from it.
